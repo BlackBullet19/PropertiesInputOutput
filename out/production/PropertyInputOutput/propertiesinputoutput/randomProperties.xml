@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>xml</comment>
+<entry key="country">Germany</entry>
+<entry key="gender">male</entry>
+<entry key="city">Berlin</entry>
+<entry key="moto">javaIsEasy</entry>
+<entry key="age">36</entry>
+<entry key="username">CodeGod</entry>
+</properties>
